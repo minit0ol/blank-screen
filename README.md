@@ -1,6 +1,6 @@
 # Blank Screen
 
-[![Blank Screen](gett-detail.png)](https://github.com/minit0ol/blank-screen)
+[![Blank Screen](gett-detail.png)](https://icncomputer.com/blank-screen/)
 
 When a black screen in Windows 10 error occurs, the computer may still be on and functioning, but it may be frozen and incapable of accepting inputs, or it may just be off. A black screen in Windows 10 can appear at any time during use, immediately after booting, after or during an update due to a Windows update error, and at virtually any other time.
 
